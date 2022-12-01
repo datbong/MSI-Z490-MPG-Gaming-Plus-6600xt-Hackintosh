@@ -18,7 +18,7 @@ Disk: SN750
 
 Working:
 
-✅ SmBios: iMac 20.2
+✅ SMBios: iMac 20.2
 
 ✅ iGPU and dGPU working
 
@@ -52,4 +52,4 @@ Not working:
 
 Install:
 
-Generate your smBios first (serial number, mlb, uuid.....)
+Generate your SMBios first (serial number, mlb, uuid.....)
